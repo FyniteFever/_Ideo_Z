@@ -1,2 +1,4 @@
 # _Ideo_Z
-A general collection of past and upcoming hardware and software based projects
+A general collection of past and upcoming hardware and software based projects. 
+
+*still under construction*
